@@ -1,14 +1,3 @@
-# Diagramme MCD
-
-![](jarvis_mcd.png)
-
-# Diagramme EER
-
-![](jarvis_eer.png)
-
-# SQL-script
-
-```
 CREATE SCHEMA IF NOT EXISTS `Jarvis` DEFAULT CHARACTER SET utf8;
 
 
@@ -150,4 +139,3 @@ CREATE TABLE IF NOT EXISTS `Jarvis`.`SeTrouve` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
-```
