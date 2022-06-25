@@ -30,6 +30,8 @@ Habiter (#id_u, #id_domicile)
 # Diagramme EER
 
 ![](Jarvis_eer.png)
-1- Le fichier ```jarvis_eer.mwb``` contient la source du diagramme EER
-2- Le Fichier ```Source_Jarvis.sql``` contient la code SQL pour la création de la Base de Donné
-3- Le Fichier ```Invitation_Checker_Event.SQL ``` contient le code SQL ppour la création d'un évènement (SCHEDULE EVENT ) Qui s'execute toute les 30minute pour suprimé les invitation invalide de la table Inviter. 
+1) Le fichier ```jarvis_eer.mwb``` contient la source du diagramme EER
+
+2) Le Fichier ```Source_Jarvis.sql``` contient la code SQL pour la création de la Base de Donné
+
+3) Le Fichier ```Invitation_Checker_Event.SQL ``` contient le code SQL ppour la création d'un évènement (SCHEDULE EVENT ) Qui s'execute toute les 30minute pour suprimé les invitation invalide de la table Inviter. 
